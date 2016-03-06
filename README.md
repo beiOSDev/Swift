@@ -1,3 +1,3 @@
 # Swift
 
-THIS REPOSITORY HAS BEEN MOVED TO Http://github.com/carlbutron/Swift
+This REPOSITORY HAS BEEN MOVED to http://github.com/carlbutron/Swift
